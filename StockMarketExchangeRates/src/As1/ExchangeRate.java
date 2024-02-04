@@ -2,7 +2,7 @@
  * By: Frank Vanris
  * Date: 2/3/2024
  * Total Hours: 36
- * Advice Given: Google, Stackoverflow, Co-Pilot, Oracle, Sara Farag, Parental Figures.
+ * Advice Given: Google, Stackoverflow, Co-Pilot, Oracle, Professor, Parental Figures.
  * Desc: created an ExchangeRate class to compare exchangeRates with other exchangeRates.
  */
 package As1;
