@@ -1,7 +1,12 @@
+/*
+ * By: Frank Vanris
+ * Date: 1/27/2024
+ * Total Hours: 36
+ * Assisted: Google, Stackoverflow, Co-Pilot, Oracle, Professor, Parental Figures.
+ * Desc: This is the Stock Analyst class that contains all the methods for the 
+ * Stock Analyst Interface.
+ */
 package As1;
-
-
-
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -12,16 +17,8 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.*;
-/*
- * By: Frank Vanris
- * Date: 1/27/2024
- * Total Hours: 36
- * Assisted: Google, Stackoverflow, Co-Pilot, Oracle, Sara Farag, Parental Figures.
- * Desc: This is the Stock Analyst class that contains all the methods for the 
- * Stock Analyst Interface.
- */
+
 public class StockAnalyst implements IStockAnalyst {
-	
 	
 	//We are obtaining the URL and returning a String of text from that url
 	@Override
