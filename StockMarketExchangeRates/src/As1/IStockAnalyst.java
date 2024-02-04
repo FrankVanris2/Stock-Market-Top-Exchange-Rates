@@ -3,7 +3,7 @@ package As1;
  * By: Frank Vanris
  * Date: 1/27/2024
  * Total Hours: 36
- * Advice Given: Google, Stackoverflow, Co-Pilot, Oracle, Sara Farag, Parental Figures.
+ * Advice Given: Google, Stackoverflow, Co-Pilot, Oracle, Professor, Parental Figures.
  * Desc: This is the Stock Analyst Interface class that contains the functionality of the
  * interface.
  */
