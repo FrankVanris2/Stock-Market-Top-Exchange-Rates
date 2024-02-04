@@ -1,3 +1,4 @@
+package As1;
 /*
  * By: Frank Vanris
  * Date: 1/27/2024
@@ -6,7 +7,6 @@
  * Desc: This is the Stock Analyst class that contains all the methods for the 
  * Stock Analyst Interface.
  */
-package As1;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
