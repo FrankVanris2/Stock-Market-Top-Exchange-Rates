@@ -2,7 +2,7 @@
  * By: Frank Vanris
  * Date: 1/27/2024
  * Total Hours: 36
- * Advice Given: Google, Stackoverflow, Co-Pilot, Oracle, Sara Farag, Parental Figures.
+ * Advice Given: Google, Stackoverflow, Co-Pilot, Oracle, Professor, Parental Figures.
  * Desc: This is the client class that has all the application behaviors. and
  * handles the interaction with the users.
  */
