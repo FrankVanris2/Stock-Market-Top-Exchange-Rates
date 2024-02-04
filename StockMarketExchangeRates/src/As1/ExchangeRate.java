@@ -1,3 +1,4 @@
+package As1;
 /*
  * By: Frank Vanris
  * Date: 2/3/2024
@@ -5,8 +6,6 @@
  * Advice Given: Google, Stackoverflow, Co-Pilot, Oracle, Professor, Parental Figures.
  * Desc: created an ExchangeRate class to compare exchangeRates with other exchangeRates.
  */
-package As1;
-
 import java.util.Comparator;
 
 public class ExchangeRate {
