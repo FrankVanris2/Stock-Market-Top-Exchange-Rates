@@ -5,7 +5,7 @@ How to use: once you download the required code in a java ide, run the code. You
 
 Example Run:
 
-##----------------------------------------------------------------------------------------------------------
+##---------------------------------------------------------------------------------------------------------- 
 These are the available stock list categories, please choose one (or enter [exit] to leave the program): 
 1. Popular Lists
 2. Market Cap Groups
