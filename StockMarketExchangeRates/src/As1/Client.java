@@ -1,3 +1,4 @@
+package As1;
 /*
  * By: Frank Vanris
  * Date: 1/27/2024
@@ -6,9 +7,6 @@
  * Desc: This is the client class that has all the application behaviors. and
  * handles the interaction with the users.
  */
-
-package As1;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
